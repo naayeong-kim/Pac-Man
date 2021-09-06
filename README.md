@@ -56,10 +56,11 @@ UC Berkeley의 인공 지능 입문 과정인 CS 188을 위해 개발된 팩맨 
 <br/>
 
 ### >> 구현된 AI 기반 솔루션 적용 결과 영상<br/>
-<img src="img/pac1.gif" width="70%">
+<img src="img/pac1.gif" width="70%"><br/>
 
 
-### Result
+
+## Result
 
 추가적으로 구현한 알고리즘이나 결과 및 분석 등 자세한 사항은 [full report](report.pdf)를 참조바랍니다.
 
